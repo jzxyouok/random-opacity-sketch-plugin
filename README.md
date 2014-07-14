@@ -3,8 +3,7 @@ Random Opacity Sketch plugin
 
 Randomly change the opacity of selected objects in Sketch. Built for Mocksy (https://www.mocksy.com) by Adam Howell (http://ahow.co).
 
-
-VM("http://vimeo.com/100667440", print = TRUE)
+[![Random Opacity Sketch plugin](http://vimeo.com/api/v2/video/100667440.png)](https://vimeo.com/100667440)
 
 
 Installing the plugin
